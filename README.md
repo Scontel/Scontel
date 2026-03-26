@@ -1,42 +1,50 @@
 
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/Scontel?s=400&v=4" width="150px" alt="Marcus J. Sterling" />
-  <h1>Hi there, I'm Marcus J. Sterling 👋</h1>
-  <h3>Senior Machine Learning Engineer & AI Architect from San Francisco, CA 🚀</h3>
-</div>
+# Hi there, I'm Marcus J. Sterling 👋
+
+I'm a **Senior Machine Learning Engineer & AI Architect** based in San Francisco, CA. I specialize in building scalable AI infrastructure, high-performance LLM inference engines, and real-time streaming analytics systems.
+
+### 🚀 About Me
+
+- 🔭 I’m currently working on optimizing large-scale transformer models for real-time inference.
+- 🌱 I’m currently learning more about advanced reinforcement learning for robotics.
+- 👯 I’m looking to collaborate on open-source AI/ML projects and MLOps frameworks.
+- 💬 Ask me about LLMs, Computer Vision, Rust, or Distributed Systems.
+- 📫 How to reach me: [marcussterling.ai](https://marcussterling.ai) | [Twitter (@m_sterling_ai)](https://twitter.com/m_sterling_ai)
 
 ---
 
-I'm a passionate Senior ML Engineer specializing in Large Language Models (LLMs), Computer Vision, and Scalable AI Infrastructure. My work focuses on bridging the gap between cutting-edge research and robust, production-ready AI systems. I thrive on building high-performance, efficient, and innovative solutions that push the boundaries of artificial intelligence.
+### 🛠️ Tech Stack
 
-### 💡 My Expertise
-
-- **Deep Learning Frameworks:** PyTorch, TensorFlow, JAX
-- **MLOps & Infrastructure:** Docker, Kubernetes, AWS (SageMaker), Terraform
-- **Specializations:** Transformer Architectures, Reinforcement Learning, Distributed Training
-- **Programming Languages:** Python, C++, Rust, TypeScript
-- **Open Source Focus:** Contributing to high-performance ML kernels and efficient inference engines.
-
-### 🚀 Featured Projects
-
-| Project Name | Language | Description | Link |
-| :--- | :--- | :--- | :--- |
-| **[LLM Inference Engine](https://github.com/Scontel/llm-inference-engine)** | C++ | High-performance C++ implementation of transformer inference with custom CUDA kernels for optimized throughput. | [GitHub](https://github.com/Scontel/llm-inference-engine) |
-| **[Distributed ML-Ops Framework](https://github.com/Scontel/distributed-ml-ops)** | Python | A comprehensive framework for distributed training and model deployment using PyTorch, Kubernetes, and Ray. | [GitHub](https://github.com/Scontel/distributed-ml-ops) |
-| **[Vision Transformer in Rust](https://github.com/Scontel/vision-transformer-rust)** | Rust | Safe and efficient implementation of Vision Transformers (ViT) from scratch in Rust, focusing on memory safety and speed. | [GitHub](https://github.com/Scontel/vision-transformer-rust) |
-
-### 🌱 I'm currently exploring
-
-- Advanced techniques for efficient on-device AI.
-- The intersection of AI and quantum computing.
-- New paradigms in federated learning.
-
-### 🌐 Connect with me
-
-- **Website:** [marcussterling.ai](https://marcussterling.ai)
-- **LinkedIn:** [linkedin.com/in/marcus-j-sterling](https://linkedin.com/in/marcus-j-sterling)
-- **Twitter:** [@m_sterling_ai](https://twitter.com/m_sterling_ai)
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | Python, C++, Rust, Scala, Go, SQL |
+| **AI/ML Frameworks** | PyTorch, TensorFlow, JAX, Scikit-learn, Hugging Face |
+| **MLOps & Infra** | Kubernetes, Docker, Ray, MLflow, Kubeflow, AWS, GCP |
+| **Data Processing** | Apache Flink, Apache Kafka, Spark, Dask, Pandas |
+| **Databases** | PostgreSQL, Redis, Pinecone, Milvus, MongoDB |
 
 ---
 
-⭐️ From Marcus J. Sterling
+### 📊 GitHub Stats
+
+![Marcus's GitHub stats](https://github-readme-stats.vercel.app/api?username=Scontel&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Scontel&layout=compact&theme=radical)
+
+---
+
+### 🌟 Featured Projects
+
+- **[llm-inference-engine](https://github.com/Scontel/llm-inference-engine):** High-performance C++ implementation of transformer inference with custom CUDA kernels.
+- **[distributed-ml-ops](https://github.com/Scontel/distributed-ml-ops):** A comprehensive framework for distributed training and model deployment using PyTorch, Kubernetes, and Ray.
+- **[vision-transformer-rust](https://github.com/Scontel/vision-transformer-rust):** Safe and efficient implementation of Vision Transformers (ViT) from scratch in Rust.
+- **[ai-powered-data-analytics](https://github.com/Scontel/ai-powered-data-analytics):** An AI-driven data analytics engine for automated insight generation and predictive modeling.
+- **[realtime-fraud-detection](https://github.com/Scontel/realtime-fraud-detection):** A real-time fraud detection system built with Apache Flink and Scala.
+- **[rl-robotics-platform](https://github.com/Scontel/rl-robotics-platform):** Reinforcement Learning Platform for Robotics Control and Simulation.
+
+---
+
+### 📈 Contribution Graph
+
+![Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=Scontel&theme=radical)
+
+---
