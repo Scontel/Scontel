@@ -1,50 +1,33 @@
+# Hi, I'm Marcus J. Sterling 👋
 
-# Hi there, I'm Marcus J. Sterling 👋
+### Senior ML Engineer | LLMs | Computer Vision | Scalable AI Infrastructure
 
-I'm a **Senior Machine Learning Engineer & AI Architect** based in San Francisco, CA. I specialize in building scalable AI infrastructure, high-performance LLM inference engines, and real-time streaming analytics systems.
+I'm a passionate and experienced Machine Learning Engineer with a focus on building and deploying cutting-edge AI solutions. My expertise lies in developing large language models, advanced computer vision systems, and robust, scalable AI infrastructure that bridges the gap between research and production.
 
-### 🚀 About Me
-
-- 🔭 I’m currently working on optimizing large-scale transformer models for real-time inference.
-- 🌱 I’m currently learning more about advanced reinforcement learning for robotics.
-- 👯 I’m looking to collaborate on open-source AI/ML projects and MLOps frameworks.
-- 💬 Ask me about LLMs, Computer Vision, Rust, or Distributed Systems.
-- 📫 How to reach me: [marcussterling.ai](https://marcussterling.ai) | [Twitter (@m_sterling_ai)](https://twitter.com/m_sterling_ai)
-
----
-
-### 🛠️ Tech Stack
-
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | Python, C++, Rust, Scala, Go, SQL |
-| **AI/ML Frameworks** | PyTorch, TensorFlow, JAX, Scikit-learn, Hugging Face |
-| **MLOps & Infra** | Kubernetes, Docker, Ray, MLflow, Kubeflow, AWS, GCP |
-| **Data Processing** | Apache Flink, Apache Kafka, Spark, Dask, Pandas |
-| **Databases** | PostgreSQL, Redis, Pinecone, Milvus, MongoDB |
+- 🔭 I’m currently working on optimizing LLM inference engines for real-time applications.
+- 🌱 I’m continuously exploring new advancements in reinforcement learning and Rust for AI.
+- 👯 I’m looking to collaborate on open-source projects that push the boundaries of AI.
+- 💬 Ask me about anything related to AI/ML, distributed systems, or performance optimization.
+- 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/marcussterlingai) and follow my thoughts on [Twitter](https://twitter.com/m_sterling_ai).
+- ⚡ Fun fact: I once trained a neural network to compose jazz music!
 
 ---
 
-### 📊 GitHub Stats
+## My Latest Projects
 
-![Marcus's GitHub stats](https://github-readme-stats.vercel.app/api?username=Scontel&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Scontel&layout=compact&theme=radical)
-
----
-
-### 🌟 Featured Projects
-
-- **[llm-inference-engine](https://github.com/Scontel/llm-inference-engine):** High-performance C++ implementation of transformer inference with custom CUDA kernels.
-- **[distributed-ml-ops](https://github.com/Scontel/distributed-ml-ops):** A comprehensive framework for distributed training and model deployment using PyTorch, Kubernetes, and Ray.
-- **[vision-transformer-rust](https://github.com/Scontel/vision-transformer-rust):** Safe and efficient implementation of Vision Transformers (ViT) from scratch in Rust.
-- **[ai-powered-data-analytics](https://github.com/Scontel/ai-powered-data-analytics):** An AI-driven data analytics engine for automated insight generation and predictive modeling.
-- **[realtime-fraud-detection](https://github.com/Scontel/realtime-fraud-detection):** A real-time fraud detection system built with Apache Flink and Scala.
-- **[rl-robotics-platform](https://github.com/Scontel/rl-robotics-platform):** Reinforcement Learning Platform for Robotics Control and Simulation.
+| Project Name                 | Description                                                                                                                             | Technologies                                                                                             |
+|------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|
+| **ai-powered-data-analytics** | Advanced framework for AI-driven data analytics, anomaly detection, and predictive modeling using Python and TensorFlow.                 | Python, TensorFlow, scikit-learn, Pandas, NumPy                                                          |
+| **distributed-ml-ops**       | Scalable MLOps framework for distributed training and model deployment with PyTorch, Kubernetes, and Ray.                               | PyTorch, Kubernetes, Ray, Docker, MLflow                                                                 |
+| **llm-inference-engine**     | High-performance C++ inference engine for large language models (LLMs), featuring custom CUDA kernels for optimized throughput.       | C++, CUDA, Transformers, ONNX Runtime                                                                    |
+| **realtime-fraud-detection** | Real-time fraud detection system leveraging Apache Flink and Scala for streaming data analysis and machine learning-based anomaly detection. | Apache Flink, Scala, Kafka, FlinkML, Akka                                                                |
+| **rl-robotics-platform**     | Reinforcement Learning platform for robotics control and simulation, built with OpenAI Gym and PyBullet.                                | Python, OpenAI Gym, PyBullet, Stable Baselines3                                                          |
+| **vision-transformer-rust**  | Memory-safe and efficient Vision Transformer (ViT) implementation in Rust, focusing on high performance and system-level AI.            | Rust, PyTorch (for comparison), Hugging Face Transformers (for models), custom CUDA kernels (planned) |
 
 ---
 
-### 📈 Contribution Graph
+## GitHub Stats
 
-![Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=Scontel&theme=radical)
+![Marcus J. Sterling's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Scontel&show_icons=true&theme=radical)
 
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Scontel&layout=compact&theme=radical)
